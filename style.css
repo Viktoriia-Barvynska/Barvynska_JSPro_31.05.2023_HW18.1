@@ -1,0 +1,9 @@
+.info-box {
+    position: absolute;
+    top: 50;
+    left: 50;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    display: none;
+  }
